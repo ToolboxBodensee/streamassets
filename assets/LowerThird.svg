@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 507.99999 285.75001"
+   height="1080"
+   width="1920">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-11.249983)"
+     id="layer1">
+    <path
+       d="m 238.125,209.68738 18.33086,10.58333 0,21.16665 -18.33086,10.58333 -18.33086,-10.58333 0,-21.16665 z"
+       id="path23"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4810257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="209.68748"
+       x="0"
+       height="42.333332"
+       width="238.125"
+       id="rect21"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49279791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       id="path1650"
+       d="m 250.22358,234.44219 v 3.43979 l -10.49729,6.04929 v -14.0557 l 3.73632,-2.19435 -3.14325,-1.83851 -9.42978,5.45622 3.14326,1.83851 2.49088,-1.42336 v 12.21719 l -10.37868,-5.98998 v -14.11502 l 12.03927,-6.93888 12.03927,6.93888 v 3.4398 l -6.34582,3.67702 v 3.61771 l 3.20256,-1.83851 3.14326,1.7199 m 3.14326,-12.45441 -15.18253,-8.77741 -15.18253,8.77741 v 17.79202 0 l 15.12322,8.71809 v 0 0 0 0 l 15.18253,-8.7774 v 0 0 -7.05751 0 0 l -3.14325,-1.7792 3.14325,-1.7792 -0.0593,-0.0594 h 0.0593 v -7.05751"
+       class="st0"
+       style="fill:#f14531;stroke-width:0.59306747" />
+    <g
+       transform="translate(-36.512517)"
+       id="g4610">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.48618698px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#616364;fill-opacity:1;stroke:none;stroke-width:0.56215465px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.692566"
+         y="232.97537"
+         id="text1746"
+         transform="scale(1.0103642,0.98974209)"><tspan
+           id="tspan1744"
+           x="44.692566"
+           y="232.97537"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.48802948px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Ultra-Bold Italic';letter-spacing:-0.18978161px;fill:#616364;fill-opacity:1;stroke-width:0.56215465px">Vortragstitel </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.76382256px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#393536;fill-opacity:1;stroke:none;stroke-width:0.56909549px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="47.76503"
+         y="244.69986"
+         id="text1750"
+         transform="scale(1.0031386,0.9968712)"><tspan
+           id="tspan1748"
+           x="47.76503"
+           y="244.69986"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.62311745px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Bold Italic';fill:#393536;fill-opacity:1;stroke-width:0.56909549px">Name des Vortragenden</tspan></text>
+    </g>
+  </g>
+  <style
+     id="style2"
+     type="text/css">
+	.st0{fill:#E9502D;}
+</style>
+  <style
+     type="text/css"
+     id="style1648">
+	.st0{fill:#F14531;}
+	.st1{fill:#616364;}
+	.st2{fill:#393536;}
+</style>
+</svg>

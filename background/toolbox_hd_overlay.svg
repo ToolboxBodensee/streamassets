@@ -6,37 +6,37 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xml:space="preserve"
-   viewBox="0 0 1920 1080"
-   y="0px"
-   x="0px"
-   id="Ebene_1"
-   version="1.1"
+   height="1080"
    width="1920"
-   height="1080"><metadata
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1920 1080"
+   xml:space="preserve"><metadata
    id="metadata56"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs54"><linearGradient
-     xlink:href="#SVGID_1_"
-     id="linearGradient35"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(6.075918,0,0,-6.075918,333.83278,785.43659)"
-     x1="35.900002"
-     y1="69.029999"
-     x2="35.900002"
-     y2="9.5299997" /><linearGradient
      y2="9.5299997"
      x2="35.900002"
      y1="69.029999"
      x1="35.900002"
-     gradientTransform="matrix(1.9226007,0,0,-1.9226007,1760.8756,156.62582)"
+     gradientTransform="matrix(6.075918,0,0,-6.075918,333.83278,785.43659)"
      gradientUnits="userSpaceOnUse"
+     id="linearGradient35"
+     xlink:href="#SVGID_1_" /><linearGradient
+     xlink:href="#SVGID_1_"
      id="linearGradient839"
-     xlink:href="#SVGID_1_" /></defs>
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.9226007,0,0,-1.9226007,1774.8756,150.62582)"
+     x1="35.900002"
+     y1="69.029999"
+     x2="35.900002"
+     y2="9.5299997" /></defs>
 <style
-   id="style2"
-   type="text/css">
+   type="text/css"
+   id="style2">
 	.st0{fill:#616364;}
 	.st1{fill:#393536;}
 	.st2{fill:url(#SVGID_1_);}
@@ -61,29 +61,29 @@
 
 
 <linearGradient
-   gradientTransform="matrix(1.9226007,0,0,-1.9226007,1406.2146,1042.1343)"
-   y2="9.5299997"
-   x2="35.900002"
-   y1="69.029999"
-   x1="35.900002"
+   id="SVGID_1_"
    gradientUnits="userSpaceOnUse"
-   id="SVGID_1_">
+   x1="35.900002"
+   y1="69.029999"
+   x2="35.900002"
+   y2="9.5299997"
+   gradientTransform="matrix(1.9226007,0,0,-1.9226007,1406.2146,1042.1343)">
 	<stop
-   id="stop42"
+   offset="0"
    style="stop-color:#E64F2D"
-   offset="0" />
+   id="stop42" />
 	<stop
-   id="stop44"
+   offset="0.5"
    style="stop-color:#D74126"
-   offset="0.5" />
+   id="stop44" />
 	<stop
-   id="stop46"
+   offset="1"
    style="stop-color:#9B160F"
-   offset="1" />
+   id="stop46" />
 </linearGradient>
 <path
-   id="path49"
-   d="m 1879.1156,52.363166 -49.2186,-28.45449 -49.2185,28.45449 v 57.677994 0 l 49.0263,28.26226 v 0 0 0 0 l 49.2186,-28.45446 v 0 0 -22.878979 0 0 l -10.1898,-5.767805 10.1898,-5.7678 v -0.19226 0 z m -10.1897,40.374595 v 11.151099 l -34.0301,19.61046 V 77.933766 l 12.1124,-7.11363 -10.1898,-5.96006 -30.5693,17.68793 10.1897,5.960055 8.0749,-4.614235 v 39.605494 l -33.6454,-19.41816 V 58.323236 l 39.0287,-22.49443 39.0289,22.49443 v 11.15108 l -20.5719,11.92013 v 11.727815 l 10.3821,-5.96002 z"
+   style="fill:url(#linearGradient839);stroke-width:1.92260087"
    class="st2"
-   style="fill:url(#linearGradient839);stroke-width:1.92260087" />
+   d="m 1893.1156,46.363166 -49.2186,-28.45449 -49.2185,28.45449 v 57.677994 0 l 49.0263,28.26226 v 0 0 0 0 l 49.2186,-28.45446 v 0 0 -22.878979 0 0 l -10.1898,-5.767805 10.1898,-5.7678 v -0.19226 0 z m -10.1897,40.374595 V 97.88886 l -34.0301,19.61046 V 71.933766 l 12.1124,-7.11363 -10.1898,-5.96006 -30.5693,17.68793 10.1897,5.960055 8.0749,-4.614235 V 117.49932 L 1804.8683,98.08116 V 52.323236 l 39.0287,-22.49443 39.0289,22.49443 v 11.15108 l -20.5719,11.92013 v 11.727815 l 10.3821,-5.96002 z"
+   id="path49" />
 </svg>

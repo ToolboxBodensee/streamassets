@@ -31,3 +31,6 @@ Für den produktiven Einsatz sollten die Grafiken unter folgenden Pfad gespeiche
 ````bash
 /srv/stream/toolbox/streamassets
 ```` 
+
+Dies ist in verwendung des Toolbox VOC
+![Toolbox VOC](.github/toolbox-voc.svg "Toolbox VOC")

@@ -5,13 +5,36 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 507.99999 285.75001"
+   width="1920"
    height="1080"
-   width="1920">
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient30"
+       spreadMethod="pad"
+       gradientTransform="matrix(0,-46.513853,-46.513853,0,26.250064,37.547485)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop24"
+         offset="0"
+         style="stop-opacity:1;stop-color:#f14531" />
+      <stop
+         id="stop26"
+         offset="0.330076"
+         style="stop-opacity:1;stop-color:#d23128" />
+      <stop
+         id="stop28"
+         offset="1"
+         style="stop-opacity:1;stop-color:#98131a" />
+    </linearGradient>
+  </defs>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -25,59 +48,66 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-11.249983)"
-     id="layer1">
+     id="layer1"
+     transform="matrix(1.4406772,0,0,1.4406772,0,-122.3098)">
     <path
-       d="m 238.125,209.68738 18.33086,10.58333 0,21.16665 -18.33086,10.58333 -18.33086,-10.58333 0,-21.16665 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4810257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path23"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4810257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+       d="m 238.125,209.68738 18.33086,10.58333 v 21.16665 L 238.125,252.02069 219.79414,241.43736 v -21.16665 z" />
     <rect
-       y="209.68748"
-       x="0"
-       height="42.333332"
-       width="238.125"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49279791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect21"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49279791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
-    <path
-       id="path1650"
-       d="m 250.22358,234.44219 v 3.43979 l -10.49729,6.04929 v -14.0557 l 3.73632,-2.19435 -3.14325,-1.83851 -9.42978,5.45622 3.14326,1.83851 2.49088,-1.42336 v 12.21719 l -10.37868,-5.98998 v -14.11502 l 12.03927,-6.93888 12.03927,6.93888 v 3.4398 l -6.34582,3.67702 v 3.61771 l 3.20256,-1.83851 3.14326,1.7199 m 3.14326,-12.45441 -15.18253,-8.77741 -15.18253,8.77741 v 17.79202 0 l 15.12322,8.71809 v 0 0 0 0 l 15.18253,-8.7774 v 0 0 -7.05751 0 0 l -3.14325,-1.7792 3.14325,-1.7792 -0.0593,-0.0594 h 0.0593 v -7.05751"
-       class="st0"
-       style="fill:#f14531;stroke-width:0.59306747" />
+       width="238.125"
+       height="42.333332"
+       x="0"
+       y="209.68748" />
     <g
-       transform="translate(-36.512517)"
-       id="g4610">
+       transform="matrix(0.45774112,0,0,-0.45774112,226.19457,242.90103)"
+       id="g10">
+      <path
+         id="path33"
+         d="M -3.0094223,43.967414 26.133028,61.28313 55.960901,44.322183 56.896678,32.391033 47.187997,24.904821 57.949425,18.705303 55.726956,7.0080987 28.706414,-8.7831285 -5.4494237,6.4232377 Z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.99017888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 26.261813,-13.008806 -0.01189,0.0072 -0.01228,-0.0072 -0.01188,0.02115 -33.7259426,19.4554097 h -0.05724 l 0.01084,39.5468203 33.8140806,19.494239 33.78992,-19.492661 V 30.444071 h -0.06509 l 0.06509,-0.112484 -6.97152,-4.021578 6.97152,-4.021975 -0.0021,-0.0037 0.0021,-0.0011 V 6.5575257 h -0.033 l 0.033,-0.05677 -33.783715,-19.4884177 -0.01188,-0.02115 m 3.360402,41.496813 v 0 l 0.05518,-31.3412863 23.37799,13.3983213 v 7.698707 l -6.976007,4.024087 -7.107108,-4.099869 v 8.083293 l 14.083115,8.124087 v 7.59652 L 26.256672,57.431595 -0.55549667,41.96421 V 10.545041 L 22.62034,-2.8120226 V 24.438571 l -5.585269,-3.230491 -7.002413,4.039665 20.93621,12.112133 7.00545,-4.041778 -8.352094,-4.830093"
+         style="fill:url(#linearGradient30);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13202386"
+         id="path32" />
+    </g>
+    <g
+       id="g4610"
+       transform="translate(-36.512517)">
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:22.48618698px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#616364;fill-opacity:1;stroke:none;stroke-width:0.56215465px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="44.692566"
-         y="232.97537"
+         transform="scale(1.0103642,0.98974209)"
          id="text1746"
-         transform="scale(1.0103642,0.98974209)"><tspan
-           id="tspan1744"
-           x="44.692566"
+         y="232.97537"
+         x="44.692566"
+         style="font-style:normal;font-weight:normal;font-size:22.48618698px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#616364;fill-opacity:1;stroke:none;stroke-width:0.56215465px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.48802948px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Ultra-Bold Italic';letter-spacing:-0.18978161px;fill:#616364;fill-opacity:1;stroke-width:0.56215465px"
            y="232.97537"
-           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.48802948px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Ultra-Bold Italic';letter-spacing:-0.18978161px;fill:#616364;fill-opacity:1;stroke-width:0.56215465px">Vortragstitel </tspan></text>
+           x="44.692566"
+           id="tspan1744">Vortragstitel </tspan></text>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:22.76382256px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#393536;fill-opacity:1;stroke:none;stroke-width:0.56909549px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="47.76503"
-         y="244.69986"
+         transform="scale(1.0031386,0.9968712)"
          id="text1750"
-         transform="scale(1.0031386,0.9968712)"><tspan
-           id="tspan1748"
-           x="47.76503"
+         y="244.69986"
+         x="47.76503"
+         style="font-style:normal;font-weight:normal;font-size:22.76382256px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#393536;fill-opacity:1;stroke:none;stroke-width:0.56909549px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.62311745px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Bold Italic';fill:#393536;fill-opacity:1;stroke-width:0.56909549px"
            y="244.69986"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.62311745px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Bold Italic';fill:#393536;fill-opacity:1;stroke-width:0.56909549px">Name des Vortragenden</tspan></text>
+           x="47.76503"
+           id="tspan1748">Name des Vortragenden</tspan></text>
     </g>
   </g>
   <style
-     id="style2"
-     type="text/css">
+     type="text/css"
+     id="style2">
 	.st0{fill:#E9502D;}
 </style>
   <style
-     type="text/css"
-     id="style1648">
+     id="style1648"
+     type="text/css">
 	.st0{fill:#F14531;}
 	.st1{fill:#616364;}
 	.st2{fill:#393536;}

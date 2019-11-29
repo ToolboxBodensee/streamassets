@@ -1,5 +1,8 @@
  VOC grafiken
 ====================
+
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/streaming/streamassets). Auf GitHub befindet sich lediglich ein Mirror**
+
 Grafiken, die beim Streaming Setup der Toolbox verwendet werden.
 Das sind u.a. hintergründe, kleine animationen oder andere praktische Bilder, Videos und Vektorgrafiken.
 
